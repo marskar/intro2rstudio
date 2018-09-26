@@ -1,12 +1,6 @@
-# Introduction to RStudio
+# Host your HTML slides on GitHub pages
 
-The goal of these materials is to demonstrate a few of the many great features in RStudio:
-- [git version control](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)
-- creating [documents (including docx)](https://rmarkdown.rstudio.com/lesson-9.html) and [slideshows (including pptx)](https://rmarkdown.rstudio.com/lesson-11.html)
-- [data viewer (can read in xslx)](https://support.rstudio.com/hc/en-us/articles/205175388-Using-the-Data-Viewer)
-
-
-to make HTML slidedecks that can be put on the web, as well as PDF and powerpoint slides.
+The goal of this tutorial is to demonstrate how to make HTML slidedecks that can be put on the web.
 
 Instructions for how to turn [Markdown](https://www.markdownguide.org/) (`.md`), [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html) (`.Rmd`), and [Jupyter Notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html) (`.ipynb`) files into slides are detailed below.
 
