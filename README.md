@@ -5,6 +5,14 @@ The goal of these materials is to demonstrate a few of the many great features i
 - creating [documents (including docx)](https://rmarkdown.rstudio.com/lesson-9.html) and [slideshows (including pptx)](https://rmarkdown.rstudio.com/lesson-11.html)
 - [data viewer (can read in xslx)](https://support.rstudio.com/hc/en-us/articles/205175388-Using-the-Data-Viewer)
 
+You can interact with the materials by clicking on of the links below.
+
+RStudio: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio)
+
+Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/r/master?filepath=index.ipynb)
+
+RShiny: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/r/master?urlpath=shiny/bus-dashboard/)
+
 
 to make HTML slidedecks that can be put on the web, as well as PDF and powerpoint slides.
 
