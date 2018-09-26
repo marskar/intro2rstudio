@@ -7,11 +7,11 @@ The goal of these materials is to demonstrate a few of the many great features i
 
 You can interact with the materials by clicking on of the links below.
 
-RStudio: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/marskar/intro2rstudio/master?urlpath=rstudio)
 
-Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/r/master?filepath=index.ipynb)
+Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/marskar/intro2rstudio/master?filepath=index.ipynb)
 
-RShiny: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/r/master?urlpath=shiny/bus-dashboard/)
+RShiny: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/marskar/intro2rstudio/master?urlpath=shiny/bus-dashboard/)
 
 
 to make HTML slidedecks that can be put on the web, as well as PDF and powerpoint slides.
