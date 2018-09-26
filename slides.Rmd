@@ -10,11 +10,6 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
-  beamer_presentation: default
-  pdf_presentation:
-    colortheme: dolphin
-    fonttheme: structurebold
-    theme: AnnArbor
 ---
 
 ```{r setup, include=FALSE}
