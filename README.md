@@ -37,7 +37,7 @@ Rscript -e "rmarkdown::render('xaringan.Rmd', output_file = 'r/xaringan.html')"
 ```
 
 ### Examples of HTML slides created using [RStudio](https://www.rstudio.com/products/rstudio/download/) or the [rmarkdown R package](https://github.com/rstudio/rmarkdown):
-- [ioslides](/slides/r/ioslides.html)
-- [slidy](/slides/r/slidy.html)
-- [revealjs](/slides/r/revealjs.html)
-- [xaringan](/slides/r/xaringan.html)
+- [ioslides](/slides/ioslides.html)
+- [slidy](/slides/slidy.html)
+- [revealjs](/slides/revealjs.html)
+- [xaringan](/slides/xaringan.html)
